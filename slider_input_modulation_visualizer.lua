@@ -1,4 +1,4 @@
--- :::: Slider Modulation Visualizer ::::
+-- :::: Slider Input Modulation Visualizer ::::
 -- This code draws a circle the same size as the slider control and animates it according to incoming modulation and position of the slider.
 -- The purpose is to illustrate where the slider "really" is when its position is added to incoming modulation.
 
