@@ -1,7 +1,6 @@
 -- :::: Slider Modulation Visualizer ::::
--- These paint values match the default colors of Audulus 4 nodes.
--- Each color has a normal, dark, and background version.
--- Gray matches the text node color.
+-- This code draws a circle the same size as the slider control and animates it according to incoming modulation and position of the slider.
+-- The purpose is to illustrate where the slider "really" is when its position is added to incoming modulation.
 
 -- :::: How to Use ::::
 -- First declare "mod" as an input in the inspector panel.
