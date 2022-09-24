@@ -3,7 +3,7 @@
 -- The purpose is to illustrate where the slider "really" is when its position is added to incoming modulation.
 
 -- :::: How to Use ::::
--- First declare "mod" as an input in the inspector panel.
+-- First declare 'mod' as an input in the inspector panel.
 -- Next, copy this code into a canvas node to use as a display.
 -- Assumes the following expr node as an input:
 -- clamp(Slider+Mod,0,1) where Slider is a slider node and Mod is an external modulation input.
