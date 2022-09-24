@@ -46,3 +46,16 @@ item | description
 `{x, y}` | origin point (center) of the circle
 `radius` | radius of the circle
 `paint` | color of the circle
+
+### Draw an outlined circle
+```lua
+stroke_circle( {x, y}, radius, width, paint)
+```
+
+item | description
+:-- | :--
+`stroke_circle(...)` | function that draws the outlined circle
+`{x, y}` | origin point (center) of the circle
+`width` | width of the outline
+`radius` | radius of the circle
+`paint` | color of the circle
