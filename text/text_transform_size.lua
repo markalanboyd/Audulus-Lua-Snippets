@@ -19,5 +19,5 @@ text_size = 1
 -- Draw text
 save()
 scale {text_size, text_size}
-text("hello world!", {0.8, 0.8, 0.8, 1})
+text("hello world!", { 0.8, 0.8, 0.8, 1})
 restore()
