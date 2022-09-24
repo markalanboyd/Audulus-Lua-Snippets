@@ -1,5 +1,5 @@
--- :::: Text Transform Size ::::
--- This snippet shows you how to transform the size of a piece of text.
+-- :::: Text Resize ::::
+-- This snippet shows you how to resize a piece of text.
 
 -- :::: How to Use ::::
 -- Copy and paste the code into your canvas node and change the "hello world!" text to whatever you'd like.
