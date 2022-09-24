@@ -20,11 +20,7 @@ begin
 folder | description
 :-- | :--
 [`drawing`](https://github.com/markalanboyd/Audulus-Lua-Snippets/tree/main/drawing) | illustrate concepts of drawing static images
-
 [`meters_modulation`](https://github.com/markalanboyd/Audulus-Lua-Snippets/tree/main/meters_modulation) | collection of meters meant to work with a `0 to 1` modulation input
-
 [`slider`](https://github.com/markalanboyd/Audulus-Lua-Snippets/tree/main/slider) | meters that pair with the `slider` node
-
 [`static variables`](https://github.com/markalanboyd/Audulus-Lua-Snippets/tree/main/static_variables) | collection of useful variables
-
 [`text`](https://github.com/markalanboyd/Audulus-Lua-Snippets/tree/main/text) | illustrate concepts of drawing text
