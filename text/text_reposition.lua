@@ -1,5 +1,5 @@
--- :::: Text Translate Position ::::
--- This snippet shows you how to translate the position of a piece of text.
+-- :::: Text Reposition ::::
+-- This snippet shows you how to reposition a piece of text.
 
 -- :::: How to Use ::::
 -- Copy and paste the code into your canvas node and change the "hello world!" text to whatever you'd like.
