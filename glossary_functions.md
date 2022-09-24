@@ -35,7 +35,7 @@ item | description
 
 ## Circle
 
-## Draw a filled circle
+### Draw a filled circle
 ```lua
 fill_circle( {x, y}, radius, paint)
 ```
