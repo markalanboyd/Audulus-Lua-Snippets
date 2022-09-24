@@ -10,6 +10,7 @@
 -- :::: Version History ::::
 -- 1.0 - 2022.09.24 - Created
 
+
 azure = color_paint { 0, 0.83137254902, 1, 1 }
 azure_dark = color_paint { 0, 0.60784313725, 0.7294117647, 1 }
 azure_back = color_paint { 0, 0.05882352941, 0.07843137254, 1 }
