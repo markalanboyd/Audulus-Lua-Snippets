@@ -1,5 +1,5 @@
 # Audulus-Lua-Snippets
-This is a collection of Lua code snippets useful for the Canvas node in Audulus. You can copy and paste these pieces of code directly into the `canvas` node in Audulus.
+This is a collection of Lua code snippets useful for the Canvas node in Audulus. You can copy and paste these pieces of code directly into the `canvas` node in Audulus. You can read about each function in the [`glossary`](https://github.com/markalanboyd/Audulus-Lua-Snippets/blob/main/glossary_functions.md).
 
 folder | description
 :-- | :--
