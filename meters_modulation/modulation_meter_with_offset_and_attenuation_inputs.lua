@@ -10,7 +10,7 @@
 -- clamp(Mod*att+off,0,1) where Mod is a 0 to 1 modulation source.
 
 -- :::: Version History ::::
--- 1.0 - 202X.XX.XX - Created
+-- 1.0 - 2022.09.24 - Created
 
 
 -- Declare variables
