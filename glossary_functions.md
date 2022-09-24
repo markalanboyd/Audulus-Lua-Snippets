@@ -43,6 +43,6 @@ fill_circle( {x, y}, radius, paint)
 item | description
 :-- | :--
 `fill_circle(...)` | function that draws the filled circle
-`{x, y}` | origin point for the circle
+`{x, y}` | origin point (center) of the circle
 `radius` | radius of the circle
 `paint` | color of the circle
