@@ -8,7 +8,7 @@ Use the [`template.lua`](https://github.com/markalanboyd/Audulus-Lua-Snippets/bl
 -- Description
 
 -- :::: How to Use ::::
--- Remember to note any variables declared in inspector window!
+-- Remember to note any variables declared in inspector panel!
 
 -- :::: Version History ::::
 -- 1.0 - 202X.XX.XX - Created
